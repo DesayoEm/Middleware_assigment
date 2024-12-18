@@ -1,0 +1,7 @@
+2024-12-18 00:45:26,662 - INFO - GET /docs took 0 seconds and 0 milliseconds
+2024-12-18 00:45:26,779 - INFO - GET /openapi.json took 0 seconds and 0 milliseconds
+2024-12-18 00:45:45,354 - INFO - POST /signup took 0 seconds and 26 milliseconds
+2024-12-18 00:45:51,900 - INFO - POST /signup took 0 seconds and 1 milliseconds
+2024-12-18 00:45:53,153 - INFO - POST /signup took 0 seconds and 0 milliseconds
+2024-12-18 00:46:00,220 - INFO - GET /docs took 0 seconds and 0 milliseconds
+2024-12-18 00:46:00,327 - INFO - GET /openapi.json took 0 seconds and 1 milliseconds
